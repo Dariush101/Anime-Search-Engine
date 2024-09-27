@@ -1,3 +1,1 @@
-# Hello
-Hello
-ITS JUSTIN MOFO
+print("Hello bitches")
