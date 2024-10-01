@@ -3,7 +3,7 @@ name = input("what is your name? ")
 print("Hello, welcome to the Anime app")
 Date_of_birth = int(input("how old are you: "))
 
-above18 = ["JJK", "Chainsawman", "One piece"]
+above18 = ["JJK", "Chainsawman", "One piece","Bleach", "Dragonball", "Hunter x Hunter", "Naruto"]
 under18 = ["Bleach", "Dragonball", "Hunter x Hunter", "Naruto"]
 
 if Date_of_birth >= 18:
