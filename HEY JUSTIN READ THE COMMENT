@@ -1,0 +1,12 @@
+# questionaire
+name = input("what is your name? ")
+print("Hello, welcome to the Anime app")
+Date_of_birth = int(input("how old are you: "))
+
+above18 = ["JJK", "Chainsawman", "One piece"]
+under18 = ["Bleach", "Dragonball", "Hunter x Hunter", "Naruto"]
+
+if Date_of_birth >= 18:
+    print(above18)
+
+# Hey Justin What do you think of this idea
