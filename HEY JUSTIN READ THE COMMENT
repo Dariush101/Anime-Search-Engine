@@ -1,4 +1,11 @@
 # questionaire
+
+# All of the genres 
+genres = ['Action', "Adventure", "Comedy", "Drama", "Fantasy", "Romance", "Slice of life", "Supernatural", "Horror", "Mystery", "Sci-Fi", "Mecha", "Sports", "Shonen", "Shojo", "Isekai", "Harem", "Reverse Harem", "Tragedy", "Game"]
+
+# All of the Actions Genres
+Action = ["JJK", "Chainsaw Man" "One Punch Man"]
+
 name = input("what is your name? ")
 print("Hello, welcome to the Anime app")
 Date_of_birth = int(input("how old are you: "))
@@ -7,6 +14,7 @@ above18 = ["JJK", "Chainsawman", "One piece","Bleach", "Dragonball", "Hunter x H
 under18 = ["Bleach", "Dragonball", "Hunter x Hunter", "Naruto"]
 
 if Date_of_birth >= 18:
-    print(above18)
+    print(genres)
+    genre1 = int(input("Choose 3 Generes that you enjoy the most: "))
 
 # Hey Justin What do you think of this idea
