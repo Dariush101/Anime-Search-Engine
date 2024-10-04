@@ -1,20 +1,29 @@
-# questionaire
+# All of the genres
+genres = ['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Romance', 'Slice of life', 
+          'Supernatural', 'Horror', 'Mystery', 'Sci-Fi', 'Mecha', 'Sports', 'Shonen', 
+          'Shojo', 'Isekai', 'Harem', 'Reverse Harem', 'Tragedy', 'Game']
 
-# All of the genres 
-genres = ['Action', "Adventure", "Comedy", "Drama", "Fantasy", "Romance", "Slice of life", "Supernatural", "Horror", "Mystery", "Sci-Fi", "Mecha", "Sports", "Shonen", "Shojo", "Isekai", "Harem", "Reverse Harem", "Tragedy", "Game"]
+# All of the Action Genres
+Action = ["JJK", "Chainsaw Man", "One Punch Man"]
 
-# All of the Actions Genres
-Action = ["JJK", "Chainsaw Man" "One Punch Man"]
+name = input("What is your name? ")
+print(f"Hello, {name}, welcome to the Anime app!")
+age = int(input("How old are you: "))
 
-name = input("what is your name? ")
-print("Hello, welcome to the Anime app")
-Date_of_birth = int(input("how old are you: "))
-
-above18 = ["JJK", "Chainsawman", "One piece","Bleach", "Dragonball", "Hunter x Hunter", "Naruto"]
+# Anime lists for different age groups
+above18 = ["JJK", "Chainsawman", "One Piece", "Bleach", "Dragonball", "Hunter x Hunter", "Naruto"]
 under18 = ["Bleach", "Dragonball", "Hunter x Hunter", "Naruto"]
 
-if Date_of_birth >= 18:
-    print(genres)
-    genre1 = int(input("Choose 3 Generes that you enjoy the most: "))
+# Recommend based on age
+if age >= 18:
+    print("You are 18 or older, here are your options.")
+else:
+    print("You are under 18, here are your options.")
 
-# Hey Justin What do you think of this idea
+# Display genres
+print("\nGenres:")
+for i, genre in enumerate(genres, 1):
+    print(f"{i}. {genre}")
+
+# Get user's genre preferences
+chosen_genres = input("\nChoose 3 genres you enjoy the most (by number, separated by commas): ")
