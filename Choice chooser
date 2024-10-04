@@ -1,0 +1,17 @@
+def action_function():
+    Action = ["JJK", "Chainsaw Man", "One Punch Man"]
+    print(Action)
+    
+def adventure_function():
+    Adventure = ["One piece", "Hunter x Hunter", "Dragon Ball"]
+    print(Adventure)
+
+
+
+choice = int (input("Choose 1 or 2\n"))
+
+
+if choice== 1:
+    action_function()
+else:
+    adventure_function()
