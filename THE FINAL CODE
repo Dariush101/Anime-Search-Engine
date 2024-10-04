@@ -1,0 +1,265 @@
+# All of the genres
+genres = ['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Romance', 'Slice of life', 
+          'Supernatural', 'Horror', 'Mystery', 'Sci-Fi', 'Mecha', 'Sports', 'Shonen', 
+          'Shojo', 'Isekai', 'Harem', 'Reverse Harem', 'Tragedy', 'Game']
+
+# All of the Action Genres
+
+
+
+def action_function():
+    Action = ["JJK", "Chainsaw Man", "One Punch Man"]
+    if chose == 1:
+        new_gen_action = ["JJK", "Chainsaw Man"]
+        print(new_gen_action)
+    elif chose == 2:
+        old_gen_action = ["One Punch Man"]
+        print(new_gen_action)
+
+    
+def adventure_function():
+    Adventure = ["One piece","Hunter x Hunter","Dragon Ball"]
+    if chose == 1:
+        new_gen_adventure = ["NONE"]
+        print(new_gen_adventure)
+    elif chose == 2:
+        old_gen_action = ["One Punch Man"]
+        print(new_gen_action)
+
+
+def comedy_function():
+    Comedy = ["Spy x Family","Mob Psycho","Konosuba"]
+    if chose == 1:
+        new_gen_comedy = ["Spy x Family"]
+        print(new_gen_comedy)
+    elif chose == 2:
+        old_gen_comedy = ["Mob Psycho", "Konosuba"]
+        print(old_gen_comedy)
+
+
+
+def drama_function():
+    Drama = ["classroom of the elite","Date a live ","charlotte "]
+    if chose == 1:
+        new_gen_drama = ["NONE"]
+        print(new_gen_action)
+    elif chose == 2:
+        old_gen_drama = ["classroom of the elite", "Date a live", "charlotte"]
+        print(old_gen_drama)
+
+def fantasy_function():
+    Fantasy = ["Overlord","Black clover","Fairy tail "]
+    if chose == 1:
+        new_gen_fantasy = ["Black Clover"]
+        print(new_gen_fantasy)
+    elif chose == 2:
+        old_gen_fantasy = ["Overlord", "Fairy tail"]
+        print(old_gen_fantasy)
+
+
+def romance_function():
+    Romance = ["My teenage romantic comedy","Alya somethimes hides her feleings in Russian","Darling inf franx"]
+    if chose == 1:
+        new_gen_romance = ["My teenage romantic comedy", "Alya somethimes hides her feelings in Russian"]
+        print(new_gen_romance)
+    elif chose == 2:
+        old_gen_romance = ["Darling inf franx"]
+        print(old_gen_romance)
+
+
+def slice_of_life_function():
+    Slice_of_life = ["Komi can't communicate","Clannad","Fruits Basket "]
+    if chose == 1:
+        new_gen_slice_of_life = ["Komi can't communicate"]
+        print(new_gen_slice_of_life)
+    elif chose == 2:
+        old_gen_slice_of_life = ["Clannad", "Fruits Basket"]
+        print(old_gen_slice_of_life)
+
+
+def supernatural_function():
+    Supernatural = ["In spectre","Fate/stay night","Demon Slayer"]
+    if chose == 1:
+        new_gen_supernatural = ["Demon Slayer"]
+        print(new_gen_supernatural)
+    elif chose == 2:
+        old_gen_supernatural = ["In spectre", "Fate/stay night"]
+        print(old_gen_supernatural)
+
+
+def horror_function():
+    Horror = ["Eldien lied","Berserk","tokyo ghoul"]
+    if chose == 1:
+        new_gen_horror = ["None"]
+        print(new_gen_horror)
+    elif chose == 2:
+        old_gen_horror = ["Eldien lied", "Berserk", "tokyo ghoul"]
+        print(old_gen_horror)
+
+
+def mystery_function():
+    Mystery = ["Bungou stray dogs","Death Note","Jojos bizzare adventure"]
+    if chose == 1:
+        new_gen_mystery = ["Jojos bizzare adventure" ]
+        print(new_gen_mystery)
+    elif chose == 2:
+        old_gen_mystery = ["Bungou stray dogs", "Death Note"]
+        print(old_gen_mystery)
+
+
+def sci_fi_function():
+    Sci_Fi = ["Cyberpunk edgerunners","sword art online","steins gate"]
+    if chose == 1:
+        new_gen_sci_fi = ["Cyberpunk edgerunners"]
+        print(new_gen_sci_fi)
+    elif chose == 2:
+        old_gen_sci_fi = ["sword art online", "steins gate"]
+        print(old_gen_sci_fi)
+
+
+def mecha_function():
+    Mecha = ["Mobile Gundum","Gurren luagan","kill la kill"]
+    if chose == 1:
+        new_gen_mecha = ["NONE"]
+        print(new_gen_mecha)
+    elif chose == 2:
+        old_gen_mecha = ["Mobile Gundum", "Gurren luagan", "kill la kill"]
+        print(old_gen_mecha)
+
+
+def sports_function():
+    sports = ["Blue lock","Hajime no ippo","Kuroko's basketball"]
+    if chose == 1:
+        new_gen_sports = ["Blue lock"]
+        print(new_gen_sports)
+    elif chose == 2:
+        old_gen_sports = ["Hajime no ippo", "Kuroko's basketball"]
+        print(old_gen_sports)
+
+
+def shonen_function():
+    shonen = ["Bleach","My hero acedemia","Dr. stone"]
+    if chose == 1:
+        new_gen_shonen = ["My hero acedemia", "Dr. stone"]
+        print(new_gen_shonen)
+    elif chose == 2:
+        old_gen_shonen = ["Bleach"]
+        print(old_gen_shonen)
+
+
+def shojo_function():
+    shojo = ["sailor moon","The irregular at a magic high school","whispers of the heart"]
+    if chose == 1:
+        new_gen_shojo = ["NONE"]
+        print(new_gen_shojo)
+    elif chose == 2:
+        old_gen_shojo = ["sailor moon", "The irregular at a magic high school", "whispers of the heart"]
+        print(old_gen_shojo)
+
+
+def isekai_function():  
+    isekai = ["That time I got reicnarnated as a slime","The Misfit of Demon King Academy","Eminence in shadow"]
+    if chose == 1:
+        new_gen_isekai = ["The misfit of devil king", "Eminence in shadow "]
+        print(new_gen_isekai)
+    elif chose == 2:
+        old_gen_isekai = ["That time I got reicnarnated as a slime"]
+        print(old_gen_isekai)
+
+    
+def harem_function():
+    Harem = ["High school dxd","I got a cheat skill in another world","Danmachi"]
+    if chose == 1:
+        new_gen_harem = ["I got a cheat skill in another world"]
+        print(new_gen_harem)
+    elif chose == 2:
+        old_gen_harem = ["Danmachi", "High school dxd"]
+        print(old_gen_harem)
+
+
+def reverse_harem_function():
+    Reverse_harem = ["Vampire knight","Code: Realize","Yona of the dawn"]
+    if chose == 1:
+        new_gen_reverse_harem = ["Vampire knight"]
+        print(new_gen_reverse_harem)
+    elif chose == 2:
+        old_gen_reverse_harem = ["Yona of the dawn", "Code realize"]
+        print(old_gen_reverse_harem)
+
+
+def tragedy_function():
+    Tragedy = ["Alucard","Devilman crybaby","Code geass"]
+    if chose == 1:
+        new_gen_tragedy = ["NONE"]
+        print(new_gen_tragedy)
+    elif chose == 2:
+        old_gen_tragedy = ["Alucard", "Devilman crybaby", "Code geass"]
+        print(old_gen_tragedy)
+
+def game_function(): 
+    Game = ["Pokemon","Yu-gi-oh","Beyblade"]
+    if chose == 1:
+        new_gen_game = ["NONE"]
+        print(new_gen_game)
+    elif chose == 2:
+        old_gen_game = ["Pokemon", "Yu-gi-oh", " Beyblade"]
+        print(old_gen_game)
+
+
+name = input("What is your name? ")
+print(f"Hello, {name}, welcome to the Anime app!")
+age = int(input("How old are you: "))
+
+# Anime lists for different age groups
+above18 = ["JJK", "Chainsawman", "One Piece", "Bleach", "Dragonball", "Hunter x Hunter", "Naruto"]
+under18 = ["Bleach", "Dragonball", "Hunter x Hunter", "Naruto"]
+
+# Recommend based on age
+if age >= 18:
+    print("You are 18 or older, here are your options.")
+else:
+    print("You are under 18, here are your options.")
+
+# Display genres
+print("\nGenres:")
+for i, genre in enumerate(genres, 1):
+    print(f"{i}. {genre}")
+
+# Get user's genre preferences
+chosen_genre1 = int(input("Choose your first favorite genre that enjoy the most (by number, ): "))
+chosen_genre2 = int(input("Choose your second favorite genre that enjoy the most (by number, ): "))
+chosen_genre3 = int(input("Choose your third favorite genre that enjoy the most (by number, ): "))
+
+# Create a mapping of genre numbers to functions
+genre_functions = {
+    1: action_function,
+    2: adventure_function,
+    3: comedy_function,
+    4: drama_function,
+    5: fantasy_function,
+    6: romance_function,
+    7: slice_of_life_function,
+    8: supernatural_function,
+    9: horror_function,
+    10: mystery_function,
+    11: sci_fi_function,
+    12: mecha_function,
+    13: sports_function,
+    14: shonen_function,
+    15: shojo_function,
+    16: isekai_function,
+    17: harem_function,
+    18: reverse_harem_function,
+    19: tragedy_function,
+    20: game_function,
+}
+
+# Get the unique chosen genres
+chosen_genres = set([chosen_genre1, chosen_genre2, chosen_genre3])
+
+chose = int(input("Do you perfer 1. New animation or Old Animation\n"))
+
+# Loop through chosen genres and call the corresponding function if it exists
+for genre in chosen_genres:
+    if genre in genre_functions:
+        genre_functions[genre]()
