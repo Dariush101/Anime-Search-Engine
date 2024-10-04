@@ -14,7 +14,7 @@ def action_function():
         print(new_gen_action)
     elif chose == 2:
         old_gen_action = ["One Punch Man"]
-        print(new_gen_action)
+        print(old_gen_action)
 
     
 def adventure_function():
@@ -24,7 +24,7 @@ def adventure_function():
         print(new_gen_adventure)
     elif chose == 2:
         old_gen_action = ["One Punch Man"]
-        print(new_gen_action)
+        print(old_gen_action)
 
 
 def comedy_function():
@@ -257,7 +257,7 @@ genre_functions = {
 # Get the unique chosen genres
 chosen_genres = set([chosen_genre1, chosen_genre2, chosen_genre3])
 
-chose = int(input("Do you perfer 1. New animation or Old Animation\n"))
+chose = int(input("Do you perfer 1. New animation or 2. Old Animation\n"))
 
 # Loop through chosen genres and call the corresponding function if it exists
 for genre in chosen_genres:
