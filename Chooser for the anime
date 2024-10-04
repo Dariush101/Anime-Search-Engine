@@ -1,0 +1,37 @@
+# Get user's genre preferences
+chosen_genre1 = int(input("Choose your first favorite genre (by number): "))
+chosen_genre2 = int(input("Choose your second favorite genre (by number): "))
+chosen_genre3 = int(input("Choose your third favorite genre (by number): "))
+
+
+# Create a mapping of genre numbers to functions
+genre_functions = {
+    1: action_function,
+    2: adventure_function,
+    3: comedy_function,
+    4: drama_function,
+    5: fantasy_function,
+    6: romance_function,
+    7: slice_of_life_function,
+    8: supernatural_function,
+    9: horror_function,
+    10: mystery_function,
+    11: sci_fi_function,
+    12: mecha_function,
+    13: sports_function,
+    14: shonen_function,
+    15: shojo_function,
+    16: isekai_function,
+    17: harem_function,
+    18: reverse_harem_function,
+    19: tragedy_function,
+    20: game_function,
+}
+
+# Get the unique chosen genres
+chosen_genres = set([chosen_genre1, chosen_genre2, chosen_genre3])
+
+# Loop through chosen genres and call the corresponding function if it exists
+for genre in chosen_genres:
+    if genre in genre_functions:
+        genre_functions[genre]()
