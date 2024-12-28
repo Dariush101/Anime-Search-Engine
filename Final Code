@@ -1,8 +1,3 @@
-# User Input (commented out for testing)
-# name = input("Hello! Welcome to the Anime Search Engine. My duty is to help you find an anime suited for your liking. Before we start, may I please know your name? \n")
-# name = name.capitalize()
-# age = input(f"Well it's nice to meet you {name}. Before we start, we need to ask one more question. How old are you?\n")
-
 # All Anime Genres
 genres = ['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Romance', 'Slice of life', 
           'Supernatural', 'Horror', 'Mystery', 'Sci-Fi', 'Mecha', 'Sports', 'Shonen', 
@@ -11,9 +6,6 @@ genres = ['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Romance', 'Slice
 # Display all genres
 for x, genre in enumerate(genres, 1):  # Use 'genre' instead of overwriting 'genres'
     print(f"{x}. {genre}")
-
-# Import Action class from external file
-#from action import Person
 
 
 
@@ -50,7 +42,7 @@ anime17 = animeToGenre("Black Clover", 17,1,"action")
 anime18 = animeToGenre("Hunter x Hunter", 17,0,"action")
 anime19 = animeToGenre("Mobile Gundam", 17,0,"action")
 anime20 = animeToGenre("Gurren Lagann", 17,1,"action")
-anime21 = animeToGenre("Kill la Kill", 18,0,"action")
+anime21 = animeToGenre("Kill la Kill", 19,0,"action")
 anime22 = animeToGenre("Cyberpunk Edgerunners", 17,1,"action")
 anime23 = animeToGenre("Sword Art Online", 17,0,"action")
 
@@ -77,22 +69,71 @@ anime23 = animeToGenre("Sword Art Online", 17,0,"action")
 # List Example
 anime_objects = [anime1,anime2,anime3,anime4,anime5,anime6,anime7,anime8,anime9,anime10,anime11,anime12,anime13,anime14,anime15,anime16,anime17,anime18,anime19,anime21,anime22,anime23]
 actionlist = []
-actionAge = []
+actionofAge = []
+actionunderAge = []
 actionNewGen = []
 actionNewOld = []
 
-for y in anime_objects:
+
+
+
+
+
+for y in anime_objects: 
+    
     if y.genre == "action":
-        actionlist.append(y.name)
+    
+        actionlist.append(y.name)  
+
+
+for z in anime_objects:
+
+    if z.gen == 0:
         
-        
-for x in anime_objects:
-    if x.age < 18:
-        actionAge.append(x.name)
+        actionNewOld.append(z.name)
+
+    elif z.gen == 1:
+
+        actionNewGen.append(z.name)
 
 
 
-print(actionlist)
-print(actionAge)
+
+#print(actionlist)
+
+#print(actionNewOld)
+
+#print(actionNewGen)
+
+
+
+
+# User Input (commented out for testing)
+name = input("Hello! Welcome to the Anime Search Engine. My duty is to help you find an anime suited for your liking. Before we start, may I please know your name? \n")
+name = name.capitalize()
+user_age = input(f"Well it's nice to meet you {name}. Before we start, we need to ask one more question. How old are you?\n")
+
+
+for user_age in anime_objects:
+    
+    if user_age.age < 18:
+    
+        actionofAge.append(user_age.name)
+
+    elif user_age.age > 18:
+    
+        actionunderAge.append(user_age.name)
+
+
+if user_age.age < 18:
+    
+    print(actionofAge)
+    print(111111)
+elif user_age.age > 18:
+    
+    print(actionunderAge)
+    print(222)
+
+
 
 
