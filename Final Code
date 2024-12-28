@@ -1,0 +1,98 @@
+# User Input (commented out for testing)
+# name = input("Hello! Welcome to the Anime Search Engine. My duty is to help you find an anime suited for your liking. Before we start, may I please know your name? \n")
+# name = name.capitalize()
+# age = input(f"Well it's nice to meet you {name}. Before we start, we need to ask one more question. How old are you?\n")
+
+# All Anime Genres
+genres = ['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Romance', 'Slice of life', 
+          'Supernatural', 'Horror', 'Mystery', 'Sci-Fi', 'Mecha', 'Sports', 'Shonen', 
+          'Shojo', 'Isekai', 'Harem', 'Reverse Harem', 'Tragedy', 'Game']
+
+# Display all genres
+for x, genre in enumerate(genres, 1):  # Use 'genre' instead of overwriting 'genres'
+    print(f"{x}. {genre}")
+
+# Import Action class from external file
+#from action import Person
+
+
+
+class animeToGenre:
+  def __init__(self, name, age, gen,genre):
+    self.name = name
+    self.age = age
+    self.gen = gen
+    self.genre = genre
+
+
+
+
+    
+
+# Create Action instances
+anime1 = animeToGenre("JJK", 17,1,"action")
+anime2 = animeToGenre("Chainsaw Man", 17,1,"action")
+anime3 = animeToGenre("One Punch Man", 17,0,"action")
+anime4 = animeToGenre("Attack on Titan", 19,1,"action")
+anime5 = animeToGenre("Bleach", 17,0,"action")
+anime6 = animeToGenre("Demon Slayer", 17,1,"action")
+anime7 = animeToGenre("Jojo", 17,1,"action")
+anime8 = animeToGenre("Dragon Ball", 17,0,"action")
+anime9 = animeToGenre("Dragon Ball Z", 17,0,"action")
+anime10 = animeToGenre("Dragon Ball GT", 17,0,"action")
+anime11 = animeToGenre("Dragon Ball Super", 17,1,"action")
+anime12 = animeToGenre("Dragon Ball Daima", 17,1,"action")
+anime13 = animeToGenre("Naruto", 17,0,"action")
+anime14 = animeToGenre("Boruto", 17,1,"action")
+anime15 = animeToGenre("One Piece", 17,0,"action")
+anime16 = animeToGenre("Vinland Saga", 17,1,"action")
+anime17 = animeToGenre("Black Clover", 17,1,"action")
+anime18 = animeToGenre("Hunter x Hunter", 17,0,"action")
+anime19 = animeToGenre("Mobile Gundam", 17,0,"action")
+anime20 = animeToGenre("Gurren Lagann", 17,1,"action")
+anime21 = animeToGenre("Kill la Kill", 18,0,"action")
+anime22 = animeToGenre("Cyberpunk Edgerunners", 17,1,"action")
+anime23 = animeToGenre("Sword Art Online", 17,0,"action")
+
+
+
+
+
+#Jojo
+#DBZ
+#DBS
+#DB
+#DB GT
+#Naruto
+#Boruto
+#One Piece
+#Vinland Saga
+#Black Clover
+#My Hero
+# Over Lord
+#Rising of shield hero
+
+
+
+# List Example
+anime_objects = [anime1,anime2,anime3,anime4,anime5,anime6,anime7,anime8,anime9,anime10,anime11,anime12,anime13,anime14,anime15,anime16,anime17,anime18,anime19,anime21,anime22,anime23]
+actionlist = []
+actionAge = []
+actionNewGen = []
+actionNewOld = []
+
+for y in anime_objects:
+    if y.genre == "action":
+        actionlist.append(y.name)
+        
+        
+for x in anime_objects:
+    if x.age < 18:
+        actionAge.append(x.name)
+
+
+
+print(actionlist)
+print(actionAge)
+
+
