@@ -16,13 +16,6 @@ ageOfUser = int(input(f"Well it's nice to meet you {name}. Before we start, we n
 
 
 
-class AnimeToGenre:
-  def __init__(self, name, age, gen, genre):
-    self.name = name
-    self.age = age
-    self.gen = gen
-    self.genre = genre
-
 
 # Display all genres
 for x, genre in enumerate(genres, 1):  # Use 'genre' instead of overwriting 'genres'
@@ -31,51 +24,113 @@ for x, genre in enumerate(genres, 1):  # Use 'genre' instead of overwriting 'gen
 
 
 chosen_genre1 = int(input("Choose your first favorite genre that enjoy the most (by number): "))
-#chosen_genre2 = int(input("Choose your second favorite genre that enjoy the most (by number, ): "))
-#chosen_genre3 = int(input("Choose your third favorite genre that enjoy the most (by number, ): "))
+chosen_genre2 = int(input("Choose your second favorite genre that enjoy the most (by number, ): "))
+chosen_genre3 = int(input("Choose your third favorite genre that enjoy the most (by number, ): "))
 
 
 print("1: New\n2: Old")
 
-chosen_gen = int(input("Do you like New Generation of anime or Old Generation: "))
+chosen_gen = int(input("Do you perefer New Generation of anime or Old Generation: "))
+
+print("1: Light\n2: Dark")
+
+chosen_theme = int(input("Do you like perfer anime's with Light Theme's or Dark Theme's: "))
+
+
+class AnimeToGenre:
+  def __init__(self, name, age, gen, theme, genre1,genre2, genre3, genre4):
+    self.name = name
+    self.age = age
+    self.gen = gen
+    self.theme = theme
+    self.genre1 = genre1
+    self.genre2 = genre2
+    self.genre3 = genre3
+    self.genre4 = genre4
+
 
 
 # Action Anime Instances
 anime_objects = [
 
 
-    AnimeToGenre("JJK", 17, 1, 1),
-    AnimeToGenre("Chainsaw Man", 17, 1, 1),
-    AnimeToGenre("One Punch Man", 17, 2, 1),
-    AnimeToGenre("Attack on Titan", 19, 1, 1),
-    AnimeToGenre("Bleach", 17, 2, 1),
-    AnimeToGenre("Demon Slayer", 17, 1, 1),
-    AnimeToGenre("Jojo", 17, 1, 1),
-    AnimeToGenre("Dragon Ball", 17, 2, 1),
-    AnimeToGenre("Dragon Ball Z", 17, 2, 1),
-    AnimeToGenre("Dragon Ball GT", 17, 2, 1),
-    AnimeToGenre("Dragon Ball Super", 17, 1, 1),
-    AnimeToGenre("Dragon Ball Daima", 17, 1, 1),
-    AnimeToGenre("Naruto", 17, 2, 1),
-    AnimeToGenre("Boruto", 17, 1, 1),
-    AnimeToGenre("One Piece", 17, 2, 1),
-    AnimeToGenre("Vinland Saga", 17, 1, 1),
-    AnimeToGenre("Black Clover", 17, 1, 1),
-    AnimeToGenre("Hunter x Hunter", 17, 2, 1),
-    AnimeToGenre("Mobile Gundam", 17, 2, 1),
-    AnimeToGenre("Gurren Lagann", 17, 1, 1),
-    AnimeToGenre("Kill la Kill", 19, 2, 1),
-    AnimeToGenre("Cyberpunk Edgerunners", 17, 1, 1),
-    AnimeToGenre("Sword Art Online", 17, 2, 1),
-    AnimeToGenre("Quintessential Quintuplets", 17, 1, 6)
+    AnimeToGenre("JJK", 17, 1, 2, 1, 8,14,0),
+    AnimeToGenre("Chainsaw Man", 19, 1, 2, 1,8,9,14),
+    AnimeToGenre("One Punch Man", 17, 2, 1,1,3,14,0),
+    AnimeToGenre("One Piece", 17, 2, 1,1,2,14,0),
+    AnimeToGenre("Hunter x Hunter", 17, 2, 2,2,1,14,0),
+    AnimeToGenre("Dragon Ball", 17, 2, 1,1,2,14,0),
+    AnimeToGenre("Dragon Ball Z", 17, 2, 1,1,2,14,0),
+    AnimeToGenre("Dragon Ball GT", 17, 2, 1,1,2,14,0),
+    AnimeToGenre("Dragon Ball Super", 17, 1, 1,1,2,14,0),
+    AnimeToGenre("Dragon Ball Daima", 17, 1, 1,1,2,14,0),
+    AnimeToGenre("Mob Psycho", 17, 1, 1,1,3,8,14),
+    AnimeToGenre("Konosuba", 17, 1, 1,3,5,16,0),
+    AnimeToGenre("Classroom of the Elite", 17, 1, 2,4,5,0,0),
+    AnimeToGenre("Date A Live", 17, 1, 1,6,3,16,17),
+    AnimeToGenre("Charlotte", 17, 1, 2,4,8,7,0),
+    AnimeToGenre("Overlord", 17, 1, 2,5,16,1,2),
+    AnimeToGenre("Fairy Tail", 17, 1, 1,1,2,5,14),
+    AnimeToGenre("Black Clover", 17, 1, 1,1,5,14,0),
+    AnimeToGenre("My Teen Romantic Comedy", 17, 1, 2,6,7,4,0),
+    AnimeToGenre("Alya Sometimes Hides Her Feelings in Russian", 17, 1, 1,6,4,7,0),
+    AnimeToGenre("Darling in the Franxx", 19, 1, 2,6,12,1,11),
+    AnimeToGenre("Komi Can't Communicate", 17, 1, 1,3,7,0,0),
+    AnimeToGenre("Clannad", 17, 1, 2,4,7,6,0),
+    AnimeToGenre("Fruits Basket", 17, 2, 2,4,6,7,0),
+    AnimeToGenre("In/Spectre", 17, 1, 2,8,6,0,0),
+    AnimeToGenre("Fate/Stay Night", 17, 2, 2,1,5,8,0),
+    AnimeToGenre("Demon Slayer", 17, 1, 2,1,8,14,0),
+    AnimeToGenre("Elfen Lied", 19, 2, 2,9,8,4,0),
+    AnimeToGenre("Berserk", 19, 2, 2,1,5,9,4),
+    AnimeToGenre("Tokyo Ghoul", 19, 1, 2,1,9,8,4),
+    AnimeToGenre("Bungou Stray Dogs", 17, 1, 2,1,8,4,0),
+    AnimeToGenre("Death Note", 17, 2, 2,10,8,0,0),
+    AnimeToGenre("JoJo's Bizarre Adventure", 17, 2, 1,2,5,14,0),
+    AnimeToGenre("Cyberpunk: Edgerunners", 19, 1, 2,1,11,4,0),
+    AnimeToGenre("Sword Art Online", 17, 1, 1,1,2,11,16),
+    AnimeToGenre("Steins;Gate", 17, 1, 2,11,33,0,0),
+    AnimeToGenre("Mobile Gundam", 17, 2, 2,12,1,11,0),
+    AnimeToGenre("Gurren Lagann", 17, 2, 1,1,12,11,2),
+    AnimeToGenre("Kill la Kill", 19, 1, 1,1,12,3,0),
+    AnimeToGenre("Blue Lock", 17, 1, 1,13,1,14,0),
+    AnimeToGenre("Hajime no Ippo", 17, 1, 1,13,4,1,0),
+    AnimeToGenre("Kuroko's Basketball", 17, 1, 1,13,1,14,0),
+    AnimeToGenre("Sailor Moon", 17, 2, 1,15,5,6,0),
+    AnimeToGenre("The Irregular at Magic High School", 17, 1, 2,11,1,14,0),
+    AnimeToGenre("Whispers of the Heart", 17, 2, 1,6,7,4,0),
+    AnimeToGenre("That Time I Got Reincarnated as a Slime", 17, 1, 1,16,5,2,0),
+    AnimeToGenre("The Misfit of Demon King Academy", 17, 1, 1,5,16,1,0),
+    AnimeToGenre("Eminence in Shadow", 17, 1, 1,16,1,5,0),
+    AnimeToGenre("High School DxD", 19, 1, 2,1,6,17,8),
+    AnimeToGenre("I Got a Cheat Skill in Another World", 17, 1, 1,16,1,5,17),
+    AnimeToGenre("DanMachi", 17, 1, 1,5,16,1,2),
+    AnimeToGenre("Vampire Knight", 17, 2, 2,18,6,8,4),
+    AnimeToGenre("Yona of the Dawn", 17, 1, 1,18,6,4,5),
+    AnimeToGenre("Code: Realize", 17, 1, 2,18,6,5,0),
+    AnimeToGenre("Alucard", 19, 2, 2,1,8,9,0),
+    AnimeToGenre("Devilman Crybaby", 19, 1, 2,1,8,4,9),
+    AnimeToGenre("Code Geass", 17, 2, 1,1,12,4,11),
+    AnimeToGenre("Pokémon", 17, 2, 1,1,2,20,0),
+    AnimeToGenre("Yu-Gi-Oh", 17, 2, 1,20,1,2,0),
+    AnimeToGenre("Beyblade", 17, 2, 1,20,1,13,0),
+
+
 
 ]
 
 
 
+# Display all genres
+for x, genre in enumerate(genres, 1):  # Use 'genre' instead of overwriting 'genres'
+    print(f"{x}. {genre}")
+
+
+
+remove_Anime1 = int(input("Choose your least favorite genre that you enjoy the least (by number): "))
+
 # List Example
-action = []
-romance = []
+the_Anime = []
 
 
 for show in anime_objects: 
@@ -86,50 +141,45 @@ for show in anime_objects:
 
         if show.age <= 19:
 
-            # what genre does the user like (action)
+            # what genre does the user like (1. action)
     
-            if show.genre == chosen_genre1:
-
-                # What generation does the user like (new gen)
+            if (show.genre1 == chosen_genre1 or show.genre1 == chosen_genre2 or show.genre1 == chosen_genre3) or (show.genre2 == chosen_genre1 or show.genre2 == chosen_genre2 or show.genre2 == chosen_genre3) or (show.genre3 == chosen_genre1 or show.genre3 == chosen_genre2 or show.genre3 == chosen_genre3) or (show.genre4 == chosen_genre1 or show.genre4 == chosen_genre2 or show.genre4 == chosen_genre3):
 
                 if show.gen == chosen_gen:
+
+                    # What theme does the user like (Light Theme)
+
+                    if show.theme == chosen_theme:
                
-                    action.append((show.name))
+                        the_Anime.append((show.name))
 
-                # What generation does the user like (old gen)
+                        if (show.genre1 == remove_Anime1 or show.genre2 == remove_Anime1 or show.genre3 == remove_Anime1 or show.genre4 == remove_Anime1):
 
-                if show.gen == chosen_gen:
-               
-                    action.append((show.name))
+                            the_Anime.remove((show.name))
 
-    if show.age > ageOfUser:
 
+
+    else:
+       
         if show.age == 17:
 
-            # what genre does the user like (action)
-
-            if show.genre == chosen_genre1:
-
-                # What generation does the user like (new gen)
+            if (show.genre1 == chosen_genre1 or show.genre1 == chosen_genre2 or show.genre1 == chosen_genre3) or (show.genre2 == chosen_genre1 or show.genre2 == chosen_genre2 or show.genre2 == chosen_genre3) or (show.genre3 == chosen_genre1 or show.genre3 == chosen_genre2 or show.genre3 == chosen_genre3) or (show.genre4 == chosen_genre1 or show.genre4 == chosen_genre2 or show.genre4 == chosen_genre3):
 
                 if show.gen == chosen_gen:
+
+                    # What theme does the user like (Light Theme)
+
+                    if show.theme == chosen_theme:
                
-                    action.append((show.name))
-
-                # What generation does the user like (old gen)
-
-                if show.gen == chosen_gen:
-               
-                    action.append((show.name))
+                        the_Anime.append((show.name))
 
 
 
 
+#action=list(dict.fromkeys(action))
 
-action=list(dict.fromkeys(action))
+the_Anime = list(the_Anime)
 
-action = list(action)
+the_Anime = sorted(the_Anime)
 
-action = sorted(action)
-
-print(action)
+print(the_Anime)
