@@ -1,127 +1,67 @@
-Top 50 Anime
-Action
-1. JJK
-2. Chainsaw Man
-3. One Punch Man 
+#
 
-Adventure
-1. One piece 
-2. Hunter x Hunter
-3. Dragon Ball 
+'Tis Time for "Torture," Princess
 
-Comedy
-1. Spy x Family 
-2. Mob Psycho
-3. Konosuba 
+07 Ghost
 
-Drama 
-1. classroom of the elite
-2. Date a live 
-3. charlotte 
+11eyes
 
-Fantasy
-1. Overlord
-2. Fairy tail 
-3. Black clover
+16bit Sensation: Another Layer
 
-Romance
-1. My teenage romantic comedy
-2. Alya somethimes hides her feleings in Russian
-3. Darling inf franx
+18if
 
-Slice of life
-1. Komi can't communicate 
-2. Clannad
-3. Fruits Basket 
+2.43: Seiin High School Boys Volleyball Team
 
-Supernatural
-1. In/spectre
-2. Fate/stay night
-3. Demon Slayer
+22/7 (Nanabun no Nijyuuni)
 
-Horror
-1. Eldien lied
-2. Berserk
-3. tokyo ghoul 
+365 Days to the Wedding
 
-Mystery
-1. Bungou stray dogs
-2. Death Note
-3. Jojos bizzare adventure 
+7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!
 
-Sci-Fi
-1. Cyberpunk edgerunners
-2. sword art online
-3. steins gate
+86 EIGHTY-SIX
 
-Mecha
-1. Mobile Gundum
-2. Gurren luagan 
-3. kill la kill 
+91 Days
 
-sports
-1. Blue lock
-2. Hajime no ippo
-3. Kuroko's basketball
+<DOGEZA> I Tried Asking While Kowtowing
 
-shonen
-1. Bleach
-2. My hero acedemia 
-3. Dr. stone
 
-shojo
-1. sailor moon
-2. The irregular at a magic high school
-3. whispers of the heart
 
-isekai
-1. That time I got reicnarnated as a slime
-2. Ghe misfit of devil king 
-3. Eminence in shadow 
 
-Harem
-1. High school dxd
-2. I got a cheat skill in another world 
-3. Danmachi
+A
 
-Reverse harem
-1. Vampire knight
-2. Yona of the dawn
-3. Code realize
+A Bridge to the Starry Skies - Hoshizora e Kakaru Hashi
 
-Tragedy
-1. Alucard
-2. Devilman crybaby
-3. Code geass
+A Centuar's Life
 
-Game
-1. Pokemon
-2. Yu-gi-oh
-3. Beyblade 
+A Certain Maigical Index
 
-Top 25
-One piece 
-naruto 
-Attack on titan
-my hero acedemia 
-One punch Man
-Bleach
-Black clover 
-fairy tail
-Berserk
-Tower of god
-Kaiju No.8
-Hunter x hunter
-Dragon ball
-demon slayer
-Fate/stay\
-jjk
-vinland saga
-that time I got reincarnated 
-Death Note
-Classroom of the elite 
-Kill la kill 
-fire force
-mob psycho
-sailor moon 
-overlord
+A Certain Scientific Accelerator
+
+A Certain Scientific Railgun
+
+A Condintion Called Loved
+
+A Couple of Cuckoos
+
+A Dark Rabbit has Seven Lives
+
+A Destructive God Sit Next to Me
+
+A Galaxy Next Door
+
+A Girl & Her Guard Dog
+
+A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized
+
+
+
+
+
+
+
+
+
+
+
+
+
