@@ -29,29 +29,33 @@
 
 A
 
-A Bridge to the Starry Skies - Hoshizora e Kakaru Hashi
-
-A Centuar's Life
-
-A Certain Maigical Index
-
-A Certain Scientific Accelerator
-
-A Certain Scientific Railgun
-
-A Condintion Called Loved
-
-A Couple of Cuckoos
-
-A Dark Rabbit has Seven Lives
-
-A Destructive God Sit Next to Me
-
-A Galaxy Next Door
-
-A Girl & Her Guard Dog
-
-A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized
+Aho-Girl
+Alderamin on the Sky
+All Out!!
+Alya Sometimes Hides Her Feelings in Russian
+Am I Actually the Strongest?
+Ancient Girl’s Frame
+Ancient Magus' Bride
+And You Thought There Is Never a Girl Online?
+Angel Links
+Angel’s 3Piece!
+Angels of Death
+Ange Vierge
+Aoi Bungaku Series
+Aoashi
+Appleseed XIII
+Appare-Ranman!
+Arakawa Under the Bridge
+Arifureta: From Commonplace to World's Strongest
+Arknights: Perish in Frost
+Astra Lost in Space
+Assassination Classroom
+Assault Lily: Bouquet
+Asteroid in Love
+Attack on Titan
+Attack on Titan: Junior High
+Attack on Titan: Lost Girls
+Aquarion
 
 
 
