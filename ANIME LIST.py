@@ -2,27 +2,70 @@
 
 'Tis Time for "Torture," Princess
 
+  +13
+  Comedy, Fantasy
+
 07 Ghost
+
+  +13
+  Action, Fantasy, Adventure, Drama
+
 
 11eyes
 
+  +13
+  Action, Fantasy, Romance, Mystery, Supernatural
+
+
 16bit Sensation: Another Layer
+
+  +13
+  Comedy, Sci-Fi, Slice of Life, Sci-Fi
+
 
 18if
 
+  +18
+  Fantasy, Supernatural, Fantasy, Mystery
+
 2.43: Seiin High School Boys Volleyball Team
+
+  +13
+  Sports, Drama
+
 
 22/7 (Nanabun no Nijyuuni)
 
+  +12
+  slice-of-life, drama  
+
+
 365 Days to the Wedding
+
+  +12
+  Comedy, Romance, Slice of Life
+
 
 7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!
 
+  +12
+  Drama, Fantasy, Romance, Isekai 
+
 86 EIGHTY-SIX
+
+  +18
+  Action, Drama, Sci-Fi, Mecha
+
 
 91 Days
 
+  +18
+  Action, Drama, Mystery  
+
 <DOGEZA> I Tried Asking While Kowtowing
+
++18
+  Action, Drama, Comedy
 
 
 
@@ -32,30 +75,31 @@ A
 
 A Bridge to the Starry Skies - Hoshizora e Kakaru Hashi
 A Centaurs Life
-a-certain-magical-index
-a-certain-scientific-accelerator
-a-certain-scientific-railgun
-a-condition-called-love
-a-couple-of-cuckoos
-a-dark-rabbit-has-seven-lives
-a-destructive-god-sits-next-to-me
-a-galaxy-next-door
-a-girl--her-guard-dog
-a-herbivorous-dragon-of-5000-years-gets-unfairly-villainized
-a-journey-through-another-world-raising-kids-while-adventuring
-a-lull-in-the-sea-nagi-asu-nagi-no-asukara
-a-nobodys-way-up-to-an-exploration-hero
-a-place-further-than-the-universe
-a-playthrough-of-a-certain-dudes-vrmmo-life
+a certain magical index
+a certain scientific accelerator
+a certain scientific railgun
+a condition called love
+a couple of cuckoos
+a dark rabbit has seven lives
+a destructive god sits next to me
+a galaxy next door
+a girl her guard dog
+a herbivorous dragon of 5000 years gets unfairly villainized
+a journey through another world raising kids while adventuring
+a lull in the sea nagi asu nagi no asukara
+a nobodys way up to an exploration hero
+a place further than the universe
+a playthrough of a certain dudes vrmmo life
+a returners magic should be special
+a salad bowl of eccentrics
+a sign of affection
+a terrified teacher at ghoul school
+a wind named amnesia
+a3!
 
-a-returners-magic-should-be-special
 
-a-salad-bowl-of-eccentrics
-a-sign-of-affection
-a-terrified-teacher-at-ghoul-school
-a-wind-named-amnesia
-a3
-aachi--ssipak
+
+aachi ssipak
 abciee-working-diary
 absolute-duo
 acca-13-territory-inspection-dept
