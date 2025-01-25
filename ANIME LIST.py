@@ -36,19 +36,19 @@
 
 22/7 (Nanabun no Nijyuuni)
 
-  +12
+  +13
   slice-of-life, drama  
 
 
 365 Days to the Wedding
 
-  +12
+  +13
   Comedy, Romance, Slice of Life
 
 
 7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!
 
-  +12
+  +13
   Drama, Fantasy, Romance, Isekai 
 
 86 EIGHTY-SIX
@@ -64,7 +64,7 @@
 
 <DOGEZA> I Tried Asking While Kowtowing
 
-+18
+  +18
   Action, Drama, Comedy
 
 
@@ -74,13 +74,46 @@ A
 
 
 A Bridge to the Starry Skies - Hoshizora e Kakaru Hashi
+
+  +13
+  Romance
+
 A Centaurs Life
+
+  +13
+  Comedy, Fantasy, Romance
+
 a certain magical index
+
+  +13
+  Action, Fantasy, Sci-Fi
+
 a certain scientific accelerator
+
+  +13
+  Action, Sci-Fi
+
 a certain scientific railgun
+
+  +13
+  Action, Sci-Fi
+
 a condition called love
+
+  PG
+  Drama, Romance
+
 a couple of cuckoos
+
+  +13
+  Comedy, Romance
+
 a dark rabbit has seven lives
+
+  +13
+  Fantasy, Romance, Supernatural
+
+
 a destructive god sits next to me
 a galaxy next door
 a girl her guard dog
@@ -96,181 +129,169 @@ a sign of affection
 a terrified teacher at ghoul school
 a wind named amnesia
 a3!
-
-
-
 aachi ssipak
-abciee-working-diary
-absolute-duo
-acca-13-territory-inspection-dept
-ace-attorney
-ace-of-the-diamond
-acro-trip
-active-raidactors-songs-connection
-adachi-and-shimamura
-aesthetica-of-a-rogue-hero
-africa-salaryman
-after-school-dice-club
-after-school-hanako-kun
-afterlost
-ah-my-buddha
-aharen-san-wa-hakarenai
-ahiru-no-sora
-aho-girl
-ai-tenchi-muyo
-ai-mai-mi-mousou-catastrophe
-ai-mai-mi-surgical-friends
 
-air-master
+
+abciee workin diary
+absolute duo
+acca 13 territory inspection dept
+ace attorney
+ace of the diamond
+acro trip
+active raidactors songs connection
+adachi and shimamura
+aesthetica of a rogue hero
+africa salaryman
+after school dice club
+after school hanako kun
+afterlost
+ah my buddha
+aharen san wa hakarenai
+ahiru no sora
+aho girl
+ai tenchi muyo
+ai mai mi mousou catastrophe
+ai mai mi surgical friends
+
+air master
 aiura
 
 
 akagi
 
-akashic-records-of-bastard-magic-instructor
+akashic records of bastard magic instructor
 
-akebis-sailor-uniform
+akebis sailor uniform
 
-akibas-trip-the-animation
+akibas trip the animation
 
 
 akira
 
 
-akudama-drive
+akudama rive
 
-alderamin-on-the-sky
+alderamin on the sky
 aldnoahzero
 
-alice--zoroku
+alice & zoroku
+
+all purpose cultural cat girl nuku nuku
+all saints street
 
 
-all-saints-street
+alya sometimes hides her feelings in russian
+
+am i actually the strongest
+
+amaim warrior at the borderline
 
 
-alya-sometimes-hides-her-feelings-in-russian
+amazing stranger
 
-am-i-actually-the-strongest
-
-amaim-warrior-at-the-borderline
-
-
-amazing-stranger
-
-ameku-md-doctor-detective
-
-
-
-an-archdemons-dilemma-how-to-love-your-elf-bride
-
-https://www.crunchyroll.com/series/GKEH2GQKX/ancient-girls-frame
-
-https://www.crunchyroll.com/series/GRWE8K5MR/and-you-thought-there-is-never-a-girl-online
-
-https://www.crunchyroll.com/series/GY49PW7QR/angel-beats
-
-
-https://www.crunchyroll.com/series/G24H1NWNJ/angel-cop
-
-
-https://www.crunchyroll.com/series/G6X03VD2Y/angel-heart
-
-https://www.crunchyroll.com/series/G6VN8D53R/angels-3piece
+ameku md doctor detective
 
 
 
+an archdemons dilemma how to love your elf bride
 
-https://www.crunchyroll.com/series/GRVDN485R/angels-of-death
+ancient girls frame
 
+and you thought there is never a girl online
 
-
-https://www.crunchyroll.com/series/G6J0QJ32R/angolmois-record-of-mongol-invasion
-
-
-https://www.crunchyroll.com/series/GRDKVQ53Y/anima-yell
+angel beats
 
 
-https://www.crunchyroll.com/series/GQWH0MXPQ/anime-azurlane-slow-ahead
-
-https://www.crunchyroll.com/series/GREX5KEXY/anime-crimes-division
-https://www.crunchyroll.com/series/GRE5KZQN6/anime-de-training-ex
-https://www.crunchyroll.com/series/GRZ43X7DY/anime-kapibarasan
-https://www.crunchyroll.com/series/G65VGQJ86/anime-gataris
-
-https://www.crunchyroll.com/series/GYWE2J9JY/anne-happy
-
-https://www.crunchyroll.com/series/GR19X2G26/anohana-the-flower-we-saw-that-day
-
-https://www.crunchyroll.com/series/GR09X52WR/another
-https://www.crunchyroll.com/series/GEXH3W24Z/another-journey-to-the-west
-
-https://www.crunchyroll.com/series/GRZXDKNVY/anti-magic-academy-the-35th-test-platoon
-
-https://www.crunchyroll.com/series/GJ0H7QGGM/anyway-im-falling-in-love-with-you
-
-https://www.crunchyroll.com/series/G4PH0WX5J/aoashi
-
-https://www.crunchyroll.com/series/GY49PZ78R/aoi-sekai-no-chushin-de
-
-https://www.crunchyroll.com/series/GYMGPXKVY/aokana-four-rhythm-across-the-blue
-https://www.crunchyroll.com/series/GRZXQJK3Y/aooni-the-blue-monster
-https://www.crunchyroll.com/series/G5PHNMW9N/appare-ranman
-https://www.crunchyroll.com/series/G3KHEVDDD/aquarion-myth-of-emotions
-https://www.crunchyroll.com/series/GRP8PGDWR/arakawa-under-the-bridge
-https://www.crunchyroll.com/series/GRE5M1X06/arata-the-legend
-https://www.crunchyroll.com/series/G69VE9W4Y/are-you-lost
-https://www.crunchyroll.com/series/GR2P9ZQ2R/aria-the-animation
-https://www.crunchyroll.com/series/GYZXZ5PM6/aria-the-scarlet-ammo
-https://www.crunchyroll.com/series/G4PH0WXD1/arifureta-from-commonplace-to-worlds-strongest
-https://www.crunchyroll.com/series/GG5H5X3VN/arknights
-https://www.crunchyroll.com/series/GZJH3DWPV/armor-shop-for-ladies--gentlemen
-https://www.crunchyroll.com/series/GRQWDD29R/arp-backstage-pass
-https://www.crunchyroll.com/series/GR9PXZ3J6/arpeggio-of-blue-steel
-https://www.crunchyroll.com/series/GDKHZEDPM/arte
-https://www.crunchyroll.com/series/GG5H5XQMD/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world
-https://www.crunchyroll.com/series/GRJ0K0ZDY/as-miss-beelzebub-likes-it
+angel cop
 
 
-https://www.crunchyroll.com/series/G6793XKZY/ascendance-of-a-bookworm
+angel heart
+
+angels 3piece
 
 
-https://www.crunchyroll.com/series/G6MEG24VR/asobi-asobase---workshop-of-fun--
-
-https://www.crunchyroll.com/series/GRE59JGX6/assassination-classroom
-https://www.crunchyroll.com/series/G60X4P8GR/assassins-pride
-
-https://www.crunchyroll.com/series/GEXH3WK20/assault-lily-bouquet
-
-https://www.crunchyroll.com/series/G6NQV5WQ6/astarottes-toy
-
-https://www.crunchyroll.com/series/GRMEJX3VY/asteroid-in-love
-
-https://www.crunchyroll.com/series/GMEHMEWZM/astra-lost-in-space
 
 
-https://www.crunchyroll.com/series/G8DHV78D7/astro-note
+angels of death
 
 
-https://www.crunchyroll.com/series/GEXH3W2Z5/atelier-ryza-ever-darkness--the-secret-hideout-the-animation
+
+angolmois record of mongol invasion
 
 
-https://www.crunchyroll.com/series/G1XHJV0EM/atri--my-dear-moments-
+anima yell
 
 
-https://www.crunchyroll.com/series/GR751KNZY/attack-on-titan
-https://www.crunchyroll.com/series/GVDHX8P8Q/attack-on-titan-movies
+anime azurlane slow ahead
 
-https://www.crunchyroll.com/series/GR758GE5Y/attack-on-titan-junior-high
+anime crimes division
+anime de training ex
+anime kapibarasan
+anime gataris
 
-https://www.crunchyroll.com/series/G0XHWM11X/ave-mujica---the-die-is-cast--
-https://www.crunchyroll.com/series/G0XHWM11X/ave-mujica---the-die-is-cast--
+anne happy
 
-https://www.crunchyroll.com/series/G79H235XP/aware-meisaku-kun
-https://www.crunchyroll.com/series/GXJHM3GQ7/ayaka
+anohana the flower we saw that day
 
-https://www.crunchyroll.com/series/GZJH3D0X5/ayakashi-triangle
+another
+another journey to the west
 
-https://www.crunchyroll.com/series/G9VHN9P49/azur-lane
+anti magic academy the 35th test platoon
+
+anyway im falling in love with you
+
+aoashi
+
+aoi sekai no chushin de
+
+aokana four rhythm across the blue
+aooni the blue monster
+appare ranman
+aquarion myth of emotions
+arakawa under the bridge
+arata the legend
+are you lost
+aria the animation
+aria the scarlet ammo
+arifureta from commonplace to worlds strongest
+arknights
+armor shop for ladies  gentlemen
+arp backstage pass
+arpeggio of blue steel
+arte
+as a reincarnated aristocrat ill use my appraisal skill to rise in the world
+as miss beelzebub likes it
+
+
+ascendance of a bookworm
+
+
+asobi asobase   workshop of fun  
+assassination classroom
+assassins pride
+assault lily bouquet
+astarottes toy
+asteroid in love
+astra lost in space
+
+astro note
+
+atelier ryza ever darkness  the secret hideout the animation
+
+atri  my dear moments 
+
+attack on titan
+
+attack on titan junior high
+
+ave mujica   the die is cast  
+
+aware meisaku kun
+ayaka
+
+ayakashi triangle
+
+azur lane
 
 
 
