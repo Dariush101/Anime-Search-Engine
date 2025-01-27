@@ -115,21 +115,96 @@ a dark rabbit has seven lives
 
 
 a destructive god sits next to me
+
+  PG
+  Comedy
+
 a galaxy next door
+
+  PG
+  Romance, Sci-Fi
+
 a girl her guard dog
+
+  +13
+  Drama 
+
+
 a herbivorous dragon of 5000 years gets unfairly villainized
+
+ +13
+  Fantasy
+
+
 a journey through another world raising kids while adventuring
+
+ +13
+  Fantasy, Comedy
+
+
 a lull in the sea nagi asu nagi no asukara
+
+ +13
+  Drama, Fantasy, Romanc3
+
+
 a nobodys way up to an exploration hero
+
+ +13
+  Fantasy
+
+
 a place further than the universe
+
+ +13
+  Advendture, Comedy, Drama
+
+
 a playthrough of a certain dudes vrmmo life
+
+ +13
+  Action, Adventure, Sci-Fi
+
+
 a returners magic should be special
+
+ +13
+  Action, Drama, Fantasy
+
+
 a salad bowl of eccentrics
+
+ +13
+  Comedy
+
+
 a sign of affection
+
+ +13
+  Romance
+
 a terrified teacher at ghoul school
+
+ +13
+  Comedy,Supernatural
+
+
 a wind named amnesia
+
+ +18
+  Adventure, Sci-Fi
+
+
 a3!
-aachi ssipak
+
+   +13
+  ???
+
+
+
+
+
+
 
 
 abciee workin diary
