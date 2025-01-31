@@ -1,0 +1,28 @@
+def filter_anime(anime_objects, chosen_genre1, chosen_genre2, chosen_genre3, chosen_gen, chosen_theme, ageOfUser, remove_Anime1):
+    the_Anime = []
+
+    for show in anime_objects: 
+
+    # is the user old enough (above 18)
+        
+        if show.age < ageOfUser:
+
+            if show.age <= 19:
+
+                # what genre does the user like (1. action)
+        
+                if (show.genre1 == chosen_genre1 or show.genre1 == chosen_genre2 or show.genre1 == chosen_genre3) or (show.genre2 == chosen_genre1 or show.genre2 == chosen_genre2 or show.genre2 == chosen_genre3) or (show.genre3 == chosen_genre1 or show.genre3 == chosen_genre2 or show.genre3 == chosen_genre3) or (show.genre4 == chosen_genre1 or show.genre4 == chosen_genre2 or show.genre4 == chosen_genre3):
+
+                    if show.gen == chosen_gen:
+
+                        # What theme does the user like (Light Theme)
+
+                        if show.theme == chosen_theme:
+                
+                            the_Anime.append((show.name))
+
+                            if (show.genre1 == remove_Anime1 or show.genre2 == remove_Anime1 or show.genre3 == remove_Anime1 or show.genre4 == remove_Anime1):
+
+                                the_Anime.remove((show.name))
+    return the_Anime
+
