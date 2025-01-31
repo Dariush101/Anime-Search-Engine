@@ -54,8 +54,10 @@ class AnimeToGenre:
 # Creating a list of anime objects with their attributes
 anime_objects = [
 
-    AnimeToGenre("Tis Time for Torture, Princess", 19, 1, 1, 1, 1, 1, 1),  # Corrected
-    AnimeToGenre("07 Ghost", 19, 1, 1, 1, 1, 1, 1),
+    AnimeToGenre("Tis Time for Torture, Princess", 18, 1, 1, 1, 1, 1, 1),  # Corrected
+    AnimeToGenre("07 Ghost", 18, 1, 1, 1, 1, 1, 1),
+    AnimeToGenre("11eyes", 18, 1, 1, 1, 1, 1, 1),
+
 
 ]
 
