@@ -370,89 +370,812 @@ azur lane
 
 
 
-https://www.crunchyroll.com/series/GRGGPG53R/b-project
-https://www.crunchyroll.com/series/G24H1N3J4/back-arrow
-https://www.crunchyroll.com/series/GR49X07J6/baka--test---summon-the-beasts--
-https://www.crunchyroll.com/series/G69PXP1EY/bakemonogatari
-https://www.crunchyroll.com/series/G6J0KWNDR/bakumatsu
-https://www.crunchyroll.com/series/G3KHEVQ44/bamboo-blade
-https://www.crunchyroll.com/series/GY2PW4EMY/bananya
-https://www.crunchyroll.com/series/G0XHWM1NV/bang-dream-its-mygo
-https://www.crunchyroll.com/series/GW4HM7G1X/bang-dream-movies
-https://www.crunchyroll.com/series/G9VHN974E/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside
-https://www.crunchyroll.com/series/GYMGD89VY/barakamon
-https://www.crunchyroll.com/series/GZJH3D0J2/bartender
-https://www.crunchyroll.com/series/GVDHX85DV/bartender-glass-of-god
-https://www.crunchyroll.com/series/G65V1GV06/basilisk
-https://www.crunchyroll.com/series/G6NQ9PX36/basilisk--the-ouka-ninja-scrolls
-https://www.crunchyroll.com/series/G9VHN9Q2D/bastions
-https://www.crunchyroll.com/series/GNVHKNGMQ/battle-athletes-victory-restart
-https://www.crunchyroll.com/series/G8DHV7DG7/battle-game-in-5-seconds
-https://www.crunchyroll.com/series/GYVNDJDD6/battle-girls---time-paradox
+ /GRGGPG53R/b-project
+ /G24H1N3J4/back-arrow
+ /GR49X07J6/baka--test---summon-the-beasts--
+ /G69PXP1EY/bakemonogatari
+ /G6J0KWNDR/bakumatsu
+ /G3KHEVQ44/bamboo-blade
+ /GY2PW4EMY/bananya
+ /G0XHWM1NV/bang-dream-its-mygo
+ /GW4HM7G1X/bang-dream-movies
+ /G9VHN974E/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside
+ /GYMGD89VY/barakamon
+ /GZJH3D0J2/bartender
+ /GVDHX85DV/bartender-glass-of-god
+ /G65V1GV06/basilisk
+ /G6NQ9PX36/basilisk--the-ouka-ninja-scrolls
+ /G9VHN9Q2D/bastions
+ /GNVHKNGMQ/battle-athletes-victory-restart
+ /G8DHV7DG7/battle-game-in-5-seconds
+ /GYVNDJDD6/battle-girls---time-paradox
 https://www.crunchyroll.com/watch/G1QF441DJ/bayonetta-bloody-fate
-https://www.crunchyroll.com/series/G8DHV743V/beast-tamer
-https://www.crunchyroll.com/series/G6GG5KQ86/beelzebub
-https://www.crunchyroll.com/series/GXJHM3PVQ/bem
-https://www.crunchyroll.com/series/GYX04955R/berserk
-https://www.crunchyroll.com/series/G1XHJV05V/berserk-of-gluttony
-https://www.crunchyroll.com/series/G24H1N8XX/berserk-the-golden-age-arc---memorial-edition
-https://www.crunchyroll.com/series/GR8DM280R/between-the-sky-and-sea
-https://www.crunchyroll.com/series/GRDQNE7GY/beyblade-metal-fusion
-https://www.crunchyroll.com/series/G6VNEV0QR/big-order
-https://www.crunchyroll.com/series/GG5H5X0K0/bikini-warriors
-https://www.crunchyroll.com/series/GNVHKN714/birdie-wing--golf-girls-story-
-https://www.crunchyroll.com/series/GYX05GE8R/black-blood-brothers
-https://www.crunchyroll.com/series/GYQ43P3E6/black-butler
-https://www.crunchyroll.com/series/GYWEQW20Y/black-cat
-https://www.crunchyroll.com/series/GRE50KV36/black-clover
+ /G8DHV743V/beast-tamer
+ /G6GG5KQ86/beelzebub
+ /GXJHM3PVQ/bem
+ /GYX04955R/berserk
+ /G1XHJV05V/berserk-of-gluttony
+ /G24H1N8XX/berserk-the-golden-age-arc---memorial-edition
+ /GR8DM280R/between-the-sky-and-sea
+ /GRDQNE7GY/beyblade-metal-fusion
+ /G6VNEV0QR/big-order
+ /GG5H5X0K0/bikini-warriors
+ /GNVHKN714/birdie-wing--golf-girls-story-
+ /GYX05GE8R/black-blood-brothers
+ /GYQ43P3E6/black-butler
+ /GYWEQW20Y/black-cat
+ /GRE50KV36/black-clover
 https://www.crunchyroll.com/watch/GEMFZZEZE/black-jack-the-movie
-https://www.crunchyroll.com/series/GYW4D0M86/black-lagoon
-https://www.crunchyroll.com/series/GMEHME53W/black-rock-shooter
-https://www.crunchyroll.com/series/GVDHX8JJE/black-summoner
-https://www.crunchyroll.com/series/GR24JJ086/blackfox
-https://www.crunchyroll.com/series/GRVNX903Y/blassreiter
-https://www.crunchyroll.com/series/G649GP1JY/blast-of-tempest
-https://www.crunchyroll.com/series/GYJQ430W6/blend-s
-https://www.crunchyroll.com/series/GRWEQEZER/blood-blockade-battlefront
-https://www.crunchyroll.com/series/GR7527XMY/bloodivores
-https://www.crunchyroll.com/series/G6MEX4N4R/bludgeoning-angel-dokuro-chan
-https://www.crunchyroll.com/series/G649PJ0JY/blue-exorcist
-https://www.crunchyroll.com/series/G4PH0WEKE/blue-lock
-https://www.crunchyroll.com/series/GXJHM3GP8/blue-miburo
-https://www.crunchyroll.com/series/GQWH0M7XD/blue-reflection-ray
-https://www.crunchyroll.com/series/GR79JXM06/blue-seed
-https://www.crunchyroll.com/series/GYZXDQQ36/blue-submarine-no-6
-https://www.crunchyroll.com/series/GXJHM3P19/bocchi-the-rock
-https://www.crunchyroll.com/series/GKEH2G428/bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense
-https://www.crunchyroll.com/series/GZJH3D801/bogus-skill-fruitmaster-about-that-time-i-became-able-to-eat-unlimited-numbers-of-skill-fruits-that-kill-you
-https://www.crunchyroll.com/series/GYE5MPJ0R/boku-no-imoutowaosaka-okan
-https://www.crunchyroll.com/series/GRWE288NR/bokurano
-https://www.crunchyroll.com/series/GXJHM3GN4/bones-25-dreaming-forward
-https://www.crunchyroll.com/series/GYVN38JP6/bonjoursweet-love-patisserie
-https://www.crunchyroll.com/series/GYJ0J3M06/boogiepop-and-others
-https://www.crunchyroll.com/series/GMEHMEN92/boogiepop-phantom
-https://www.crunchyroll.com/series/GR75Q020Y/boruto-naruto-next-generations
-https://www.crunchyroll.com/series/GDKHZEWP9/bottom-tier-character-tomozaki
-https://www.crunchyroll.com/series/GEXH3W217/brave-bang-bravern
-https://www.crunchyroll.com/series/GRMG1D55R/brave-witches
-https://www.crunchyroll.com/series/G6JQ0M9WR/break-ups
-https://www.crunchyroll.com/series/G63VXEQNY/brothers-conflict
-https://www.crunchyroll.com/series/G5PHNM985/bucchigiri
-https://www.crunchyroll.com/series/GYE5Z94VR/buddy-complex
-https://www.crunchyroll.com/series/GG5H5X3DE/buddy-daddies
-https://www.crunchyroll.com/series/GG5H5XDE1/build-divide--000000--code-black
-https://www.crunchyroll.com/series/G24H1NW9J/bullbuster
-https://www.crunchyroll.com/series/GXJHM377D/bungo-and-alchemist--gears-of-judgement-
-https://www.crunchyroll.com/series/GR5VXQ8PR/bungo-stray-dogs
-https://www.crunchyroll.com/series/GMEHMEN75/bungo-stray-dogs-wan
-https://www.crunchyroll.com/series/G8DHV7478/bureau-of-paranormal-investigation
-https://www.crunchyroll.com/series/GRPP77VJR/burn-the-witch
-https://www.crunchyroll.com/series/G9VHN9W5J/burning-kabaddi
-https://www.crunchyroll.com/series/GRK5VPPW6/burst-angel
-https://www.crunchyroll.com/series/G79H23ZNP/butareba--the-story-of-a-man-turned-into-a-pig-
-https://www.crunchyroll.com/series/GRMEKQW4Y/butlers-x-battlers
-https://www.crunchyroll.com/series/GP5HJ85ED/by-the-grace-of-the-gods
-https://www.crunchyroll.com/series/G4PH0WJXN/bye-bye-earth
+ /GYW4D0M86/black-lagoon
+ /GMEHME53W/black-rock-shooter
+ /GVDHX8JJE/black-summoner
+ /GR24JJ086/blackfox
+ /GRVNX903Y/blassreiter
+ /G649GP1JY/blast-of-tempest
+ /GYJQ430W6/blend-s
+ /GRWEQEZER/blood-blockade-battlefront
+ /GR7527XMY/bloodivores
+ /G6MEX4N4R/bludgeoning-angel-dokuro-chan
+ /G649PJ0JY/blue-exorcist
+ /G4PH0WEKE/blue-lock
+ /GXJHM3GP8/blue-miburo
+ /GQWH0M7XD/blue-reflection-ray
+ /GR79JXM06/blue-seed
+ /GYZXDQQ36/blue-submarine-no-6
+ /GXJHM3P19/bocchi-the-rock
+ /GKEH2G428/bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense
+ /GZJH3D801/bogus-skill-fruitmaster-about-that-time-i-became-able-to-eat-unlimited-numbers-of-skill-fruits-that-kill-you
+ /GYE5MPJ0R/boku-no-imoutowaosaka-okan
+ /GRWE288NR/bokurano
+ /GXJHM3GN4/bones-25-dreaming-forward
+ /GYVN38JP6/bonjoursweet-love-patisserie
+ /GYJ0J3M06/boogiepop-and-others
+ /GMEHMEN92/boogiepop-phantom
+ /GR75Q020Y/boruto-naruto-next-generations
+ /GDKHZEWP9/bottom-tier-character-tomozaki
+ /GEXH3W217/brave-bang-bravern
+ /GRMG1D55R/brave-witches
+ /G6JQ0M9WR/break-ups
+ /G63VXEQNY/brothers-conflict
+ /G5PHNM985/bucchigiri
+ /GYE5Z94VR/buddy-complex
+ /GG5H5X3DE/buddy-daddies
+ /GG5H5XDE1/build-divide--000000--code-black
+ /G24H1NW9J/bullbuster
+ /GXJHM377D/bungo-and-alchemist--gears-of-judgement-
+ /GR5VXQ8PR/bungo-stray-dogs
+ /GMEHMEN75/bungo-stray-dogs-wan
+ /G8DHV7478/bureau-of-paranormal-investigation
+ /GRPP77VJR/burn-the-witch
+ /G9VHN9W5J/burning-kabaddi
+ /GRK5VPPW6/burst-angel
+ /G79H23ZNP/butareba--the-story-of-a-man-turned-into-a-pig-
+ /GRMEKQW4Y/butlers-x-battlers
+ /GP5HJ85ED/by-the-grace-of-the-gods
+ /G4PH0WJXN/bye-bye-earth
+
+ /GRP58JGDR/c3-anime
+
+
+ /GYNVQ5PZR/calamity-of-a-zombie-girl
+ /G6DK9M29R/caligula
+
+ /GG5H5X3EE/campfire-cooking-in-another-world-with-my-absurd-skill
+
+ /GYGGPD73Y/captain-harlock
+
+
+ /G4PH0WJDQ/captain-tsubasa-junior-youth-arc
+
+
+ /GRNQP873R/cardcaptor-sakura
+
+
+https://www.crunchyroll.com/watch/G5JFZG51N/cardcaptor-sakura-the-movie-2-the-sealed-card
+
+ /G6JQXP48R/cardcaptor-sakura-clear-card
+
+
+
+ /GRXJ9X5EY/cardfight-vanguard
+
+ /G6P8PWMG6/cardfight-vanguard-asia-circuit
+
+
+ /G6MGPKW46/cardfight-vanguard-g
+ /G6JQVM3ER/case-closed-detective-conan
+
+ /GG5H5X35K/case-file-n221-kabukicho
+
+ /GYNQEDGGY/casshern-sins
+
+
+ /GNVHKN78X/cautious-hero-the-hero-is-overpowered-but-overly-cautious
+
+
+ /GR3KVPQER/cells-at-work
+
+
+ /GDKHZE13M/cells-at-work-code-black
+
+
+
+
+ /GY5VXG95Y/cerberus
+
+
+
+ /G6E5KWN0Y/ceres-celestial-legend
+
+ /GZJH3D732/cestvs--the-roman-fighter-
+
+
+ /GYZX2XE46/chaika-the-coffin-princess-
+
+ /GY8VQJM0Y/chain-chronicle---the-light-of-haecceitas--
+
+
+ /GVDHX8QNW/chainsaw-man
+
+
+
+
+ /GRZXQ1Z4Y/chance-pop-session
+
+
+ /G69PZV9VY/chaos-dragon
+
+
+
+
+
+ /GR497ZW36/chaoschild
+
+ /GR9P7K096/chaoshead
+
+
+
+ /GR197N1G6/chargeman-ken
+
+
+ /GR09XQ3GR/charger-girl-ju-den-chan
+
+
+ /GYGG99WDY/charlotte
+ /G69PM13DY/cheating-craft
+
+ /GP5HJ8435/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard
+
+
+ /GYGG57V3Y/chihayafuru
+
+
+
+ /GR197V276/children-of-ether
+
+ /GEXH3W2PK/chillin-in-another-world-with-level-2-super-cheat-powers
+
+
+ /G79H23XWZ/chillin-in-my-30s-after-getting-fired-from-the-demon-kings-army
+
+
+ /GY1X93P7Y/chios-school-road
+
+
+
+ /G6X02X3EY/chiruran-1/2
+
+ /GYGGVPV8Y/chitose-get-you
+
+
+
+ /GRZX4PK4Y/chronicles-of-the-going-home-club
+
+
+
+
+ /GYGGXP7EY/chrono-crusade
+
+
+ /GR2P942JR/chronos-ruler
+
+ /G0XHWM45M/cinderella-chef
+ /GY5P48E7Y/cinderella-nine
+
+ /GY5V74MPY/citrus
+
+ /G6P5M4156/city-hunter
+
+
+ /GNVHKN9N3/classroom-for-heroes
+
+ /GRVN8MNQY/classroom-of-the-elite
+
+ / /claymore
+
+
+ /GYNQZQ3XY/clean-freak-aoyama-kun
+
+
+ /GRWE1330R/clockwork-planet
+
+ /GY2P9ED0Y/code-geass
+
+ /GR9P90D16/code-realize-guardian-of-rebirth
+
+
+ /G0XHWM41M/codebreaker
+
+
+ /GQWH0M98E/combatants-will-be-dispatched
+
+
+
+ /G64PVJGWR/comic-girls
+
+ /GR9P3EP36/comical-psychosomatic-medicine
+
+ /GR1XQ92VR/conception
+
+ /GJ0H7Q8W3/concrete-revolutio
+
+
+ /G6197910Y/convenience-store-boy-friends
+
+ /G4PH0WZ5E/cop-craft
+
+
+ /G8DHV78N3/copihan
+
+ /GKEH2GQJ5/corpse-princess-shikabane-hime
+
+ /G649MZM8Y/cosplay-complex-ova
+
+ /GYVNXMVP6/cowboy-bebop
+
+ /GYX0DW78R/coyote-ragtime-show
+
+ /G675N3ENR/cromartie-high-school
+ /GR3K1E3DR/crossing-time
+
+
+ /G4PH0WJPQ/crunchyroll-presents-the-anime-effect
+
+
+
+ /G8DHV7W3N/cue
+
+ /GRZX20P8Y/cute-high-earth-defense-club-love
+
+ /G8DHV7874/cyber-city-oedo-808
+
+
+
+R8V02Q7R/d-frag
+
+
+609GE8M6/dgray-man
+
+
+3KHEV032/d4dj-all-mix
+
+YGVN57EY/d4dj-first-mix
+
+XJHM3DZX/d_cide-traumerei-the-animation
+
+
+YVNMW756/da-capo-iii
+
+YDQN15K6/dagashi-kashi
+
+DKHZEJW0/dahlia-in-bloom-crafting-a-fresh-start-with-magical-tools
+
+
+6X0K0N7Y/daily-lives-of-high-school-boys
+
+6QW9J2Z6/dakaichi--im-being-harassed-by-the-sexiest-man-of-the-year-
+RWE24VNR/dallos
+
+G5H5XQ0D/dan-da-dan
+9VHN9P07/dance-dance-danseur
+6QWGNN76/dance-in-the-vampire-bund
+
+XJHM395E/dance-with-devils
+
+R1X4J00R/dances-with-the-dragons
+Y8VX3X7Y/danchigai
+R3V5EK46/danganronpa-3-the-end-of-hopes-peak-high-school
+
+R75N43MY/danganronpa-the-animation
+
+
+Y8VEQ95Y/darling-in-the-franxx
+
+61X24PZ6/darwins-game
+YEX5E1G6/date-a-live
+
+
+YX040PKR/days
+
+
+63KN0DZ6/days-of-urashimasakatasen
+0XHWM190/days-with-my-stepsister
+68VMJ746/dd-fist-of-the-north-star
+8DHV7827/dead-dead-demons-dededede-destruction
+
+3KHEV04J/dead-mount-death-play
+RX02EZ06/deadman-wonderland
+VDHX8Z77/deaimon-recipe-for-happiness
+RZXD528Y/dears
+6K50XJ7Y/death-march-to-the-parallel-world-rhapsody
+
+6GGXKNE6/death-parade
+EXH3WK03/deca-dence
+
+
+
+
+9VHN91K2/deep-insanity-the-lost-child
+
+
+KEH2G04K/delicos-nursery
+
+
+8DHV78K4/delusional-monthly-magazine
+
+
+6P85JWG6/demian
+RGG58V1R/demon-king-daimao
+
+79H23ZX3/demon-lord-2099
+
+
+XJHM37KD/demon-lord-retry
+
+
+Y5P48XEY/demon-slayer-kimetsu-no-yaiba
+
+YVN3Q136/denki-gai
+
+
+R9P7MP06/desert-punk
+
+YVNPX3D6/devil-may-cry
+
+
+MEHME8EZ/diary-of-our-days-at-the-breakwater
+
+
+679305JY/didnt-i-say-to-make-my-abilities-average-in-the-next-life
+
+RE50WD16/dies-irae
+6NQX5GZ6/digimon-adventure-tri
+
+YEX24PV6/digimon-adventure-2020
+
+5PHNMEEZ/digimon-ghost-game
+
+RDKJ3Q3Y/digimon-universe-app-monsters
+Y19X1M9R/digimon-xros-wars---the-young-hunters-who-leapt-through-time
+
+4PH0WE7E/dimension-w
+
+KEH2G8ZJ/dirty-pair
+
+Y0XXX2P6/disgaea
+
+YZXDZGX6/divine-gate
+
+
+6491E5ZY/dna2
+
+EXH3W4JP/do-it-yourself
+
+6J0EEP0R/do-you-love-your-mom-and-her-two-hit-multi-target-attacks
+
+VDHX853V/doctor-elise-the-royal-lady-with-the-lamp
+
+
+
+R9PXEN46/dog--scissors
+
+
+679D84KY/domestic-girlfriend
+
+QWH0M455/dont-toy-with-me-miss-nagatoro
+5PHNM77K/donten-laughing-under-the-clouds---gaiden
+
+
+RJ00ZP4Y/double-decker-doug--kirill
+G5H5XK0J/dr-ramune--mysterious-disease-specialist-
+
+YEXQKJG6/dr-stone
+
+
+8DHV7W21/dragon-ball
+
+G5H5XQ35/dragon-ball-daima
+
+4PH0WXXM/dragon-ball-gt
+
+R19V7816/dragon-ball-super
+9VHN9PPW/dragon-ball-z
+
+YMGD32GY/dragon-collection
+
+
+6P85GMM6/dragon-crisis
+4PH0WXD4/dragon-goes-house-hunting
+
+
+YXM79M56/dragon-quest-the-adventure-of-dai
+
+
+DKHZEJN0/dragon-raja--the-blazing-dawn-
+
+
+6MG20446/dragonar-academy
+
+
+Y2PQ04PY/dragonaut--the-resonance-
+
+63V7VN4Y/dramatical-murder
+
+
+62487M9Y/dropkick-on-my-devil
+
+
+EXH3WK40/dropout-idol-fruit-tart
+NVHKNG1Q/drowning-sorrows-in-raging-fire
+DKHZEN80/drug-store-in-another-world---the-slow-life-of-a-cheat-pharmacist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
