@@ -834,204 +834,204 @@ DKHZEN80/drug-store-in-another-world---the-slow-life-of-a-cheat-pharmacist
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ GRJ07DM5Y/earl-and-fairy
+
+
+
+
+ GR0X0P1VY/eat-man
+
+
+ GRZJ073V6/eat-man-98
+
+
+
+ GY8DDD58Y/eden-of-the-east
+
+
+ G79H23XJJ/edens-zero
+
+ GRDK118DY/eiken
+
+ G4PH0WEZP/el-cazador-de-la-bruja
+
+ GYP83KPJY/eldlive
+
+
+
+ GYE5Z5JNR/elegant-yokai-apartment-life
+ G69VK484Y/elemental-gelade
+ GYW4455K6/emma-a-victorian-romance
+ G649D0KPY/endride
+
+ GRP52G1JR/endro
+ GJ0H7Q8J0/engage-kiss
+
+ GXJHM3P49/ensemble-stars
+ GYGG92K7Y/erased
+ GYQ42D876/ergo-proxy
+ GRQ40V31Y/eromanga-sensei
+ GG5H5XEGG/estab-life-great-escape
+ G6Q4Q41ZR/etotama
+ GYWE82VMY/eureka-seven-ao
+ GQWH0MP75/eureka-seven-hi-evolution
+ GNVHKN99W/even-given-the-worthless-appraiser-class--im-actually-the-strongest
+ G6E5098GY/evil-or-live
+ GQWH0MX7Q/ex-arm
+ G6MGX3DG6/excel-saga
+ G6248J99Y/extra-olympia-kyklos
+ G3KHEVQQG/extreme-hearts
+ GRE5KGN36/eyeshield-21
+
+
+
+
+ GW4HM757E/fafner
+ G3KHEVD3E/failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells
+ G1XHJV2DX/fairies-album
+ G79H230EM/fairy-gone
+ GYZXQWMV6/fairy-musketeers
+ G1XHJV873/fairy-ranmaru
+ G6DQDD3WR/fairy-tail
+ GG5H5XQED/fairy-tail-100-years-quest
+ GMEHME4QD/fanfare-of-adolescence
+ G79H230JM/fantasia-sango---realm-of-legends
+https://www.crunchyroll.com/watch/GZ4FVQE90/fantastic-adventures-of-unico
+ GDKHZE431/farewell-my-dear-cramer
+ GP5HJ8447/farmagia
+ GRQ4Z4XQY/fastest-finger-first
+ G8DHV7972/fatal-fury-ova
+ G79H23K5W/fatal-fury-the-motion-picture
+ GXJHM397N/fategrand-carnival
+ GYNQ3N8ZY/fategrand-order-first-order
+ GRZJEMV36/fategrand-order--moonlightlostroom-
+ GR24JZ886/fategrand-order-absolute-demonic-front-babylonia
+ G3KHEV0M2/fategrand-order-the-stage---the-grand-temple-of-time-solomon-ars-nova
+ GRDQV79DY/fatekaleid-liner-prisma-illya
+ GXJHM39V0/fatestay-night-heavens-feel
+ GY8V11X7Y/fatestay-night-unlimited-blade-works
+ G4PH0WJQZ/fatestrange-fake
+ GRJQ04Z3Y/fatezero
+ GZJH3DPM1/fena-pirate-princess
+ GYG57JWEY/fight-league-gear-gadget-generators
+https://www.crunchyroll.com/watch/GXMFQVKV0/final-fantasy-xv-episode-ardyn--prologue
+ GYQWNXPZY/fire-force
+ G0XHWM1MK/firefighter-daigo-rescuer-in-orange
+ GY3VGKV9R/first-love-monster
+ GR79P2NJ6/fist-of-the-blue-sky-regenesis
+ G6752ZK3R/fist-of-the-north-star
+ GY09GKE2Y/flame-of-recca
+ GRDK3DD4Y/flcl
+ GZJH3D858/fluffy-paradise
+ G65VE2G36/flying-witch
+ GY49PDGVR/folktales-from-japan
+ G6GG91P26/food-wars-shokugeki-no-soma
+ GP5HJ8WJG/for-whom-the-alchemist-exists-the-movie
+ GYGGKQ88Y/forest-fairy-five
+ GRZXZ9EGY/fractale
+ G64PPXMZR/frankenstein-family
+ GXJHM378Z/freakangels
+ GRDQV2VWY/free---iwatobi-swim-club
+ GRDQE71GY/freezing
+ GG5H5XQX4/frieren-beyond-journeys-end
+ G6ZJMGEXY/fruits-basket
+ GQWH0M7VP/fruits-basket-2001
+ G1XHJVE5K/full-dive-this-ultimate-next-gen-full-dive-rpg-is-even-shittier-than-real-life
+ GR2PQ9K0R/full-metal-panic
+ GR4PVDGEY/full-metal-panic-invisible-victory
+ GRDK9DE1Y/full-metal-panic-the-second-raid
+ G6VN78NXR/full-metal-panic-fumoffu
+ GRGGPG93R/fullmetal-alchemist-brotherhood
+https://www.crunchyroll.com/watch/GJKF27X8M/fullmetal-alchemist-the-conqueror-of-shamballa
+ GRGG932PR/fushigi-yugi
+ GRWE2W42R/fushigi-yugi-ova
+ GRX038W06/fushigi-yugi-eikoden
+ G24H1NJE2/futsal-boys
+ GY5VKE9EY/future-card-buddyfight
+ GRJQNG8XY/fuuka
+ GMEHMEWK0/fuuto-pi
+
+
+
+
+
+ GRNQVWWJR/ga-geijutsuka-art-design-class
+ G6ZXZD93R/ga-rei-zero
+ GR09WNG7R/gabriel-dropout
+ GY24KV85R/gad-guard
+ GR193JZE6/gakuen-alice
+ G64901MJY/gakuen-handsome
+ GMEHME7EJ/gakuen-heaven
+ G4PH0WEDW/gal--dino
+ GYQ4M8016/galaxy-express-999
+ GR5V1JKGR/gamers
+ GKEH2G87N/ganbare-doukichan
+ G6MG10376/gankutsuou
+ G6P8918Q6/gantz
+ GKEH23WZM/garakowa--restore-the-world-
+ GR49G1GE6/gargantia-on-the-verdurous-planet
+ GRVN7ZW3Y/garo--vanishing-line-
+ GR5VMPM5R/garo-crimson-moon
+ G6MEK122R/gegege-no-kitaro
+ GW4HM758E/gekidol
+ G24H1NW50/genesis-climber-mospeada
+ GYGGVJQ5Y/genshiken-second-season
+ GRNQJ5Z9R/ghastly-prince-enma-burning-up
+ GYDKQX9Z6/ghost-in-the-shell-arise
+ G6MGP0K46/ghost-stories
+ G63VE554Y/giant-gorg
+ GR3K2EXXR/gibiate
+ G6NQJ2ZZ6/gifu-dodo-kanetsugu-and-keiji
+ G649G581Y/gingitsune-messenger-fox-of-the-gods
+ GYQ4MKDZ6/gintama
+ GW4HM755M/gintama-the-very-final
+ GY19NQ2QR/girl-friend-beta
+ GEXH3WP97/girlfriend-girlfriend
+ G1XHJV0W8/girls-band-cry
+ G6VN7WW0R/girls-bravo
+ GW4HM7GQX/girls-frontline
+ GYG5XKQ1Y/girly-air-force
+ GRG5WWD4R/given
+ GYP8PPDGY/gj-club
+ GY8D2D88Y/glass-fleet
+ GRWEXQEER/glass-mask
+ G9VHN9P7W/gleipnir
+ GR3VK50W6/go-lion
+ G9VHN9QDQ/go-princess-precure
+ G6VDMN306/goblin-slayer
+ GRDQNDVZY/god-eater
+ G6JQ1MW8R/god-mars
+ G0XHWM1Q0/gods-games-we-play
+ GR19N7DV6/golden-boy
+ GY8DWQN5Y/golden-kamuy
+ G79H23Z0X/good-bye-dragon-life
+ GYJQGMNX6/good-luck-girl
+ G8DHVNJ5V/good-luck-ninomiya-kun
+ GYG5GW91Y/gosick
+ GRZJ0M446/granbelm
+ GRVN4W13Y/granblue-fantasy-the-animation
+ GYEMEVGVR/grand-blues
+ GW4HM7W99/grandpa-and-grandma-turn-young-again
+ GYW4HPEK1/gravion
+ G9VHN9DXX/gravitation
+ GJ0H7QG4K/great-pretender-razbliuto
+ G4PH0WJEG/gridman-universe
+ GRVNX917Y/grimgar-ashes-and-illusions
+ GW4HM7WWV/grisaia-phantom-trigger
+ G9VHN97GM/ground-control-to-psychoelectric-girl
+ GRQ4QG4GY/gto---the-animation
+ GZJH3D0N5/guilty-crown
+ GY8VK5G8Y/gun-x-sword
+ GZJH3D8D8/gunbuster
+ GY9VDNJ0R/gundam-build-divers
+ G6Q40NG1R/gundam-build-fighters
+ GY197VD9R/gungrave
+ GYZX14J96/gunslinger-girl
+ GY75KPZ56/gunslinger-stratos
+ GRVDWZZ4R/gurazeni-money-pitch
+ GR097JN7R/gurren-lagann
+ GR9P7JMV6/guyver-the-bioboosted-armor
+ GXYZ123/gxyz123
 
 
 
